@@ -1,0 +1,42 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-admob": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-admob"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-admobsdk": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-admobsdk"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-admob": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-admob"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-connectivity-monitor": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-connectivity-monitor"
+        },
+        "is_top_level": false,
+        "variables": {}
+    }
+}
